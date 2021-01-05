@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d6a3937-bfe1-4ac1-bc18-1b9949544c7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Animation/SelectedAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponsScripts/SetWeaponInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SetPlantInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SetWeaponInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/WarAxe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/VikingAxe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/PirateSword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/VictoriousSword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/LongSword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/StraightSword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Weapons/Weapons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponsScripts/LongSword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponsScripts/WarAxe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponsScripts/VikingAxe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponsScripts/VictoriousSword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponsScripts/StraightSword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraScript/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponsScripts/PirateSword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponsScripts/WeaponData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponsScripts/Weapons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Animation/SelectedAnimation.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mO0AQ2Kavm9NrnDWtmgLria6Px" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d6a3937-bfe1-4ac1-bc18-1b9949544c7c" name="Default Changelist" comment="" />
+      <created>1609349189607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609349189607</updated>
+      <workItem from="1609349200276" duration="5038000" />
+      <workItem from="1609354326911" duration="4258000" />
+      <workItem from="1609363663038" duration="7062000" />
+      <workItem from="1609633484681" duration="6039000" />
+      <workItem from="1609777687488" duration="20427000" />
+      <workItem from="1609809961284" duration="4282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1609780477387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609780477387" />
+    <state x="-1304" y="164" key="run.anything.popup" timestamp="1609352758080">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="164" key="run.anything.popup/0.0.1920.1040/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1609352758080" />
+    <state x="-1297" y="73" width="672" height="678" key="search.everywhere.popup" timestamp="1609812581348">
+      <screen x="-1920" y="-152" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="73" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.-152.1920.1040@-1920.-152.1920.1040" timestamp="1609812581348" />
+  </component>
+</project>
